@@ -4,7 +4,7 @@
 </div>
 ### 👀 About Me
 
-Hi there! I'm [Your Name], a passionate individual interested in the fields of Data Science, AI, and Web Application Development. Here's a little bit about me:
+Hi there! I'm Wzinh, a passionate individual interested in the fields of Data Science, AI, and Web Application Development. Here's a little bit about me:
 
 - 🌱 I'm currently focusing on learning and developing my skills in Data Science and Machine Learning.
 - 💞️ I’m eager to collaborate on projects related to data analysis, artificial intelligence, or web application development.
