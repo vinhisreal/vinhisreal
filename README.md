@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Wzinh</h1>
+<div align="center" style="position: relative; text-align: center;">
+  <img src="https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif" alt="Alt text" ">
+  <h3 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Arial', sans-serif; font-size: 24px; color: #FFFFFF; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">HI, I'm Wzinh. Wellcome to my Github 👋</h3>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhisreal&label=Profile%20views&color=0e75b6&style=flat" alt="vinhisreal" /> </p>
 
 ### Blogs posts
