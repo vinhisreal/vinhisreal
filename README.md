@@ -20,7 +20,7 @@ Let's connect and create something amazing together! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/wzinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wzinh" height="30" width="40" /></a>
+<a href="https://dev.to/vinhisreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wzinh" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100010106312526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010106312526" height="30" width="40" /></a>
 <a href="https://instagram.com/ng._wzinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ng._wzinh" height="30" width="40" /></a>
 <a href="https://medium.com/@nguyenquangvinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nguyenquangvinh" height="30" width="40" /></a>
