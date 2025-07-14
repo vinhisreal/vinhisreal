@@ -7,8 +7,6 @@ Hi there! I'm Wzinh, a passionate individual interested in the fields of AI. Her
 - 🌱 I'm currently focusing on learning and developing my skills in Machine Learning, Deeplearning.
 - 📫 Feel free to reach out to me via email at [vinhquang2610345@gmail.com](mailto:vinhquang2610345@gmail.com).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhisreal&label=Profile%20views&color=0e75b6&style=flat" alt="vinhisreal" /> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
